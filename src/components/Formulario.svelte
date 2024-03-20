@@ -6,7 +6,7 @@
   import { buscaRepositorios, buscaUsuario } from "../requisicoes";
   import montaUsuario from "../utils/montaUsuario";
 
-  let valorInput = "j-vinicius";
+  let valorInput = "";
   let statusDeErro: null | number = null;
 
   const dispatch = createEventDispatcher<{
