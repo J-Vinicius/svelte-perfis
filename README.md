@@ -22,4 +22,4 @@ Para a implementação do projeto foram utilizadas as seguintes técnicas e tecn
 
 ## 📁 Acesso ao projeto
 
-Você pode acessar o código fonte do projeto ou ver o deploy na vercel.
+Você pode acessar o [código fonte do projeto](https://github.com/J-Vinicius/svelte-perfis) ou ver o [deploy na vercel](https://svelte-perfis-alura.vercel.app/).
